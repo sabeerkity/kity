@@ -1,4 +1,4 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://sabeerkity.netlify.app/"
 languageCode: en-us
 title: Mohammed Sabeer
 theme: PaperMod
@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Abdur Rahman"
-    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity. I'm a **Civil Engineer** and a **Cyber Security Expert**.
+    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity. I'm a **Civil Engineer** and a **Cyber Security Expert**. I do **Problem Solving** and **Efficient Solution** Services and Testing.
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
