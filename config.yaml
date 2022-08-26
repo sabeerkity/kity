@@ -1,6 +1,6 @@
 baseURL: "https://sabeerkity.netlify.app/"
 languageCode: en-us
-title: Mohammed Sabeer
+title: ">" Mohammed Sabeer 😈
 theme: PaperMod
 
 menu:
@@ -48,7 +48,7 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
+    title: "Mohammed Sabeer"
     subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **Cyber Security Expert** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solution** 🔭 Services and Testing.
     imageUrl: "home/me1.jpg"
     imageWidth: 220
@@ -73,8 +73,8 @@ params:
     - name: "github"
       url: "https://github.com/sabeerkity"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
-      name: "instagram"
+     url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
+      name: "Instagram"
       url: "https://www.instagram.com/sabeer_kity/"
       name: "facebook"
       url: "https://www.facebook.com/mohammed.sabeer.96"
