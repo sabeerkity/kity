@@ -1,6 +1,6 @@
 baseURL: "https://sabeerkity.netlify.app/"
 languageCode: en-us
-title: ">" Mohammed Sabeer 😈
+title:  Mohammed Sabeer 😈
 theme: PaperMod
 
 menu:
@@ -73,7 +73,7 @@ params:
     - name: "github"
       url: "https://github.com/sabeerkity"
     - name: "cv"
-     url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
+      url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
       name: "Instagram"
       url: "https://www.instagram.com/sabeer_kity/"
       name: "facebook"
