@@ -67,7 +67,7 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "sabeeron95@gmail.com"
+      url: "mailto:sabeeron95@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/sabeerkity/"
     - name: "github"
