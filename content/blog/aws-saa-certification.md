@@ -1,5 +1,5 @@
 ---
-title: "I passed the AWS SAA Certification Exam"
+title: "Mohammed Sabeer"
 description: "How I passed the AWS Solutions Architect-Associate Certification Exam"
 dateString: May 2022
 draft: false

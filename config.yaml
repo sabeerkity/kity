@@ -49,8 +49,8 @@ params:
   profileMode:
     enabled: true
     title: "Abdur Rahman"
-    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity. I'm a **Civil Engineer** and a **Cyber Security Expert**. I do **Problem Solving** and **Efficient Solution** Services and Testing.
-    imageUrl: "home/me.jpg"
+    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **Cyber Security Expert** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solution** 🔭 Services and Testing.
+    imageUrl: "home/me1.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,16 +67,17 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "sabeeron95@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/sabeerkity/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/sabeerkity"
     - name: "cv"
       url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
-
+      name: "instagram"
+      url: "https://www.instagram.com/sabeer_kity/"
+      name: "facebook"
+      url: "https://www.facebook.com/mohammed.sabeer.96"
   # text search
   fuseOpts:
     isCaseSensitive: false
