@@ -1,21 +1,10 @@
 ---
 title: "Mohammed Sabeer"
 description: "How I passed the AWS Solutions Architect-Associate Certification Exam"
-dateString: May 2022
 draft: false
 tags: ["AWS", "AWS SAA", "Certification", "Solutions Architect"]
 weight: 101
-cover:
-    image: "/blog/aws-saa-certification/cover.jpeg"
 ---
-
-# Credentials
-### 🔗 [Certificate](https://drive.google.com/file/d/1NLGxG3-Id7lGUFL-SVhMl7mvWb9GYIxS/view?usp=sharing)
-
-### 🔗 [Score Report](https://drive.google.com/file/d/1NMYJElDJ_Li5AVWTZlzh9DT2qmIi-1bG/view?usp=sharing)
-
-### 🔗 [Credly Badge](https://www.credly.com/badges/dfc84bb4-75ab-449f-bdf5-4dc85eb12ad6/public_url)
-
 # Introduction
 I've passed the AWS Solutions Architect - Associate certification exam with a score of **962/1000** with just 2 months of preparation while working full-time as a software engineer. In this article, I’ll be sharing everything about this exam, my preparation strategies and tips. So, if you have plans on taking this exam anytime soon, read this article till the end. 
 

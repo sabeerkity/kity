@@ -29,10 +29,6 @@ menu:
     #   name: Tags
     #   url: /tags
     #   weight: 60
-    - identifier: notes
-      name: Notes
-      url: https://notes.arkalim.org
-      weight: 70
 
 params:
   # theme
@@ -74,8 +70,8 @@ params:
       url: "https://github.com/sabeerkity"
     - name: "cv"
       url: "https://drive.google.com/file/d/1O0Qxwj0nz7O0VO0JoZJdqtPtUn7oOXcq/view"
-      name: "Instagram"
-      url: "https://www.instagram.com/sabeer_kity/"
+      name: "instagram"
+      url: "https://www.instagram.com/sabeer_kity"
       name: "facebook"
       url: "https://www.facebook.com/mohammed.sabeer.96"
   # text search
