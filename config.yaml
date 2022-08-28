@@ -14,7 +14,7 @@ menu:
       url: /whoami
       weight: 20
     - identifier: Certifications
-      name: Certifications
+      name: certifications
       url: /Certifications
       weight: 30
     - identifier: blog
