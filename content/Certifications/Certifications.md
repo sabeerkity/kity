@@ -3,10 +3,10 @@ title: "Certifications"
 weight: 100
 cover:
     image: "/Certifications/cov.jpg"
+---
+These are some of my Certifications"
 
-description: "These are some of my Certifications"
-weight: 90
-image: "/Certifications/pic2.jpg"
-weight: 80
+![](/Certifications/pic2.jpg)
+
 
 ---
