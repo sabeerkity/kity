@@ -18,7 +18,7 @@ PS: You may find this project old.
 
 We have done the Main Project as **Replacing the Marble as Coarse Aggregate in a Normal PCC**
 
-![](/experience/pic2.jpg)
+![](/experience/pic2.jpeg)
 
 Stay Tuned For More Updates.
 
