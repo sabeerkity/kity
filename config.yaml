@@ -6,16 +6,16 @@ theme: PaperMod
 menu:
   main:
     - identifier: home
-      name: Home
+      name: 🏠 Home
       url: /
       weight: 10
-    - identifier: whoami
+    - identifier: 🐉 whoami
       name: Whoami
-      url: /whoami
+      url: /🐉 whoami
       weight: 20
-    - identifier: Certifications
+    - identifier: 🥇 Certifications
       name: certifications
-      url: /Certifications
+      url: /🥇 Certifications
       weight: 30
     - identifier: blog
       name: Blog
@@ -25,13 +25,13 @@ menu:
       name: Projects
       url: /projects
       weight: 50
-    - identifier: experience
+    - identifier: 💡 experience
       name: Experience
-      url: /experience
+      url: /💡 experience
       weight: 60
-    - identifier: search
+    - identifier: 🔍 search
       name: Search
-      url: /search
+      url: /🔍 search
       weight: 70
     # - identifier: tags
     #   name: Tags

@@ -2,7 +2,7 @@
 title: "Experience Related to Civil Engineering"
 weight: 100
 cover:
-    image: "/experience/pic.jpg"
+    image: "/💡 experience/pic.jpg"
 ---
 # Mini - Project
 
