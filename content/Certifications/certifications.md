@@ -1,5 +1,5 @@
 ---
-title: "Certifications"
+title: "Certifications related to Cyber - Security"
 weight: 100
 cover:
     image: "/Certifications/cov.jpg"
