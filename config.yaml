@@ -17,22 +17,14 @@ menu:
       name: 🥇 certifications
       url: /Certifications
       weight: 30
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 40
-    - identifier: projects
-      name: Projects
-      url: /projects
-      weight: 50
     - identifier: experience
       name: 💡 Experience
       url: /experience
-      weight: 60
+      weight: 40
     - identifier: search
       name: 🔍 Search
       url: /search
-      weight: 70
+      weight: 50
     # - identifier: tags
     #   name: Tags
     #   url: /tags
