@@ -1,6 +1,6 @@
 baseURL: "https://sabeerkity.netlify.app/"
 languageCode: en-us
-title:  Mohammed Sabeer 😈
+title:  Mohammed Sabeer ⚛
 theme: PaperMod
 
 menu:
@@ -46,7 +46,7 @@ params:
     enabled: true
     title: "Mohammed Sabeer"
     subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **Cyber Security Expert** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solution** 🔭 Services and Testing.
-    imageUrl: "home/me1.jpg"
+    imageUrl: "home/me2.jpeg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -72,6 +72,8 @@ params:
       url: "https://www.instagram.com/sabeer_kity"
     - name: "facebook"
       url: "https://www.facebook.com/mohammed.sabeer.96"
+    - name: "twitter"
+      url: "https://twitter.com/KitySabeer"
   # text search
   fuseOpts:
     isCaseSensitive: false
