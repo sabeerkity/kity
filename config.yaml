@@ -1,6 +1,6 @@
 baseURL: "https://sabeerkity.netlify.app/"
 languageCode: en-us
-title:  Mohammed Sabeer 😊
+title:  Mohammed Sabeer 🦋
 theme: PaperMod
 
 menu:
@@ -76,6 +76,11 @@ params:
       url: "https://twitter.com/KitySabeer"
     - name: "Google Developer"
       url: "https://developers.google.com/profile/u/sabeer"
+    - name: "reddit"
+      url: "https://www.reddit.com/user/sabeerkity"
+    - name: "snapchat"
+      url: "https://www.snapchat.com/add/sabeer_kity?share_id=iqeKNs4EGLo&locale=en-US"
+
   # text search
   fuseOpts:
     isCaseSensitive: false
