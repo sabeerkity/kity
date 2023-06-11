@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Mohammed Sabeer"
-    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **Cyber Security Expert** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solution** 🔭 Services and Testing.
+    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **Cyber Security Expert** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solutions** 🔭 Services and Testing on both of my **Expertise**.
     imageUrl: "home/me3.png"
     imageWidth: 220
     imageHeight: 220
