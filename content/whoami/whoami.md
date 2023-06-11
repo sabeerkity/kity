@@ -8,7 +8,7 @@ cover:
 ---
 #  Quick Look
 
-◉ I'm a **Civil Engineer 🎓** and a 'forever' student🥰, in **updating latest technological 💻 development** in the industry.
+◉ I'm a **Civil Engineer 🎓** and a 'forever' student🥰, in **updating latest technological 💻 development** in the industry and having a 6-month Experience in BIM Modelling and Shop Drawing.
 
 ![](/whoami/pic4.jpg)
 
@@ -20,6 +20,6 @@ cover:
 # Hobbies
 
 ◉ And I also have another rare talent that everyone find useless , **I'm a cinephile 🎞**.
-   I have completed around **31 Series 📺** and still counting on and watched **1000's of movies 📡** even before my Twenties , which acts as a **Stress Buster** for me.
+   I have completed around **40 Series 📺** and still counting on and watched **1000's of movies 📡** even before my Twenties , which acts as a **Stress Buster** for me.
 
 ![](/whoami/pic3.jpg)
