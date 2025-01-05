@@ -1,5 +1,5 @@
 ---
-title: "Certifications related to Cyber - Security"
+title: "Certifications related to BIM-Engineer"
 weight: 100
 cover:
     image: "/Certifications/cov.jpg"
