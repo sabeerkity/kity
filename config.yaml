@@ -42,10 +42,17 @@ params:
   env: production
 
   # Home Page
+  background_video:
+  path: "home/Video.mp4"
+  autoplay: true
+  loop: true
+  muted: false
+  resolution: "1920x1080"
+
   profileMode:
     enabled: true
     title: "Mohammed Sabeer"
-    subtitle: My Name is Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm a **Civil Engineer** 🎓 and a **BIM Engineer** 🐱‍💻. I do **Problem Solving** ☣ and Bring **Efficient Solutions** 🔭 Services and Testing on both of my **Expertise**.
+    subtitle: Hii There..! ✌️ I am Mohammed Sabeer aka Sabeer Kity 🐱‍👤. I'm Currently a **BIM Engineer** 🎓 in **Architecture🏢 and Structure🏗️** Trades. I do **Problem Solving** ☣ and Bring **Efficient Solutions** 🔭 Services and QA/QC on my **Expertise**.
     imageUrl: "home/me3.png"
     imageWidth: 220
     imageHeight: 220
