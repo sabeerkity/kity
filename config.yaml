@@ -46,7 +46,7 @@ params:
   path: "static/home/Video.mp4"
   autoplay: true
   loop: true
-  muted: false
+  muted: true
   resolution: "1920x1080"
 
   profileMode:
