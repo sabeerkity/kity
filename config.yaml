@@ -8,7 +8,7 @@ menu:
     - identifier: home
       name: 🏠 Home
       url: /
-      weight: 11
+      weight: 10
     - identifier: whoami
       name: 🐉 Whoami
       url: /whoami
