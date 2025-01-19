@@ -67,8 +67,8 @@ params:
   cover:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
-
-  socialIcons:
+params:
+  social:
     - name: "email"
       url: "mailto:sabeeron95@gmail.com"
     - name: "linkedin"
